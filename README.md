@@ -65,7 +65,7 @@ This is Free opensource application, feel free to use, run, edit, change, contri
 
 ## License
 
-This project is licensed under the MIT, GPL2 Licenses. See the `LICENSE` files for more details.
+This project is licensed under the MIT, Apache2 Licenses. See the `LICENSE` files for more details.
 
 ## Credits
 - UI by V0.dev
