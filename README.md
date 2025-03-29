@@ -1,3 +1,7 @@
+<div align="right">
+<sub>Public | Free OpenSource</sub>
+</div>
+
 # jobby
 A platform for job seekers build and improve their resume, via using AI. Free opensource!
 
